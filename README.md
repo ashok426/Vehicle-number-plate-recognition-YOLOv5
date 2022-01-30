@@ -10,6 +10,10 @@ https://medium.com/@ashok.1055/automatic-number-plate-detection-using-yolov5-and
 
 ![city-call-taxi](https://user-images.githubusercontent.com/63462922/151689357-43403de4-d1bf-42c9-90d9-bdaebe86b01c.jpg)
 
+# Region of interest
+
+![city-call-taxi](https://user-images.githubusercontent.com/63462922/151689461-abdf3a68-f3da-4267-bc02-6dacc80d001e.jpg)
+
 
 
 
