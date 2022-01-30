@@ -18,7 +18,7 @@ https://medium.com/@ashok.1055/automatic-number-plate-detection-using-yolov5-and
 
 ![cro](https://user-images.githubusercontent.com/63462922/151689817-d09cc4fa-26bd-464c-9fb0-f4e9a4043b7b.png)
 
-Our OCR recognised wrongly as 4 for 1. Yes, Character recognition using OCR is not accurate.There is still lot needs to improve on image processing in future.
+In the above image, tesseract recognized the number wrongly as 4 for 1. Yes, Character recognition using OCR is not accurate.There is still lot needs to improve on image processing in future.
 
 
 
