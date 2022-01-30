@@ -16,7 +16,7 @@ https://medium.com/@ashok.1055/automatic-number-plate-detection-using-yolov5-and
 
 # OCR result
 
-
+![cro](https://user-images.githubusercontent.com/63462922/151689817-d09cc4fa-26bd-464c-9fb0-f4e9a4043b7b.png)
 
 
 
