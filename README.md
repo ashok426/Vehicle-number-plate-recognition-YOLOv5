@@ -5,3 +5,8 @@ Detect a vehicle number plate automatically and in addition to that extract the 
 For more detailed knowledge about project, read my blog on medium
 
 https://medium.com/@ashok.1055/automatic-number-plate-detection-using-yolov5-and-extraction-of-text-using-ocr-2868668aa479
+
+# Result of object detection
+
+
+
