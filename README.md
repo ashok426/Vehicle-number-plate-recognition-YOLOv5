@@ -14,6 +14,10 @@ https://medium.com/@ashok.1055/automatic-number-plate-detection-using-yolov5-and
 
 ![city-call-taxi](https://user-images.githubusercontent.com/63462922/151689461-abdf3a68-f3da-4267-bc02-6dacc80d001e.jpg)
 
+# OCR result
+
+
+
 
 
 
